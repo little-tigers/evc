@@ -16,8 +16,6 @@ import java.util.regex.PatternSyntaxException;
 /**
  * 字符串工具类, 继承org.apache.commons.lang3.StringUtils类
  *
- * @author ThinkGem
- * @version 2013-05-22
  */
 public class StringUtil extends org.apache.commons.lang3.StringUtils {
 
